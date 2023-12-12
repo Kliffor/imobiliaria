@@ -1,0 +1,126 @@
+body {
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+
+.secao3,
+.secao4,
+.secao5,
+.secao6 {
+    margin: 15px 0 15px 0;
+}
+
+h1 {
+    color: black;
+
+}
+
+.logo {
+    width: 250px;
+}
+
+.secao1 a {
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+
+.secao1 {
+    background-color: cornflowerblue;
+    margin: 20px 0px 0px 0px;
+}
+
+.secao2 h1 {
+    font-weight: bold;
+}
+
+.secao2 h2 {
+    font-weight: normal;
+    color: cornflowerblue;
+}
+
+.secao3 span {
+    color: cornflowerblue;
+}
+
+.secao3 p {
+    text-align: justify;
+    padding: 0 170px 0 170px;
+}
+
+.secao5 p {
+    text-align: justify;
+    padding: 0 170px 0 170px;
+}
+
+.secao4,
+.secao6 h2 {
+    text-align: center;
+    color: white;
+}
+
+.secao4 p {
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}
+
+.secao4 ul {
+    color: white;
+    margin-left: 45%;
+    margin-right: 49%;
+}
+
+.secao5 h2 {
+    color: cornflowerblue;
+}
+
+.secao3 img {
+    text-align: center;
+    width: 450px;
+}
+
+.secao5 img {
+    text-align: center;
+    width: 450px;
+}
+
+
+.secao6,
+.secao4 {
+    background-color: cornflowerblue;
+}
+
+.secao6 p {
+    color: white;
+
+}
+
+span {
+    color: yellow;
+    font-weight: bold;
+}
+
+.secao6 a {
+    background-color: white;
+    line-height: 10px;
+    border-radius: 5px;
+}
+
+.interessado {
+    background-color: black;
+    padding: 5px 0 5px 0;
+    margin: 0 140px 0 140px;
+}
+
+.voltar {
+    text-decoration: none;
+    text-align: nenhum;
+    text-align: left;
+    background-color: cornflowerblue;
+    padding: 3px 3px 3px 3px;
+    margin-left: 999px;
+}
